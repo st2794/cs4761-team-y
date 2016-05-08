@@ -1,5 +1,7 @@
 '''
-sam tkach, kenny xiao
+written by sam tkach, kenny xiao
+search_bwt.py
+
 inexact search over burrows-wheeler genome data
 '''
 

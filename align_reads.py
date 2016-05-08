@@ -1,3 +1,10 @@
+'''
+written by Kenny Xiao
+CS4761 final project
+align_reads.py
+'''
+
+
 import sys
 import random
 from search_bwt import *

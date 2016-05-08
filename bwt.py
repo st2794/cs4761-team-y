@@ -1,6 +1,7 @@
 '''
 sam tkach, kenny xiao
-burrows-wheeler transform for genome data
+
+simple, fast implementation of burrows-wheeler transform for genome data
 '''
 
 alphabet = ['A', 'C', 'G', 'T']
